@@ -1,0 +1,51 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+ body {
+ 	font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;
+
+                padding-top: 60px;
+                padding-bottom: 40px;
+            
+            }
+
+            .gunit{max-width:1000px;}
+            .carousel-caption{color: white;}
+            .featurette-heading {padding-top:60px;}
+
+            #wufoo-r7w9s7{border:4px solid #d44413;
+  -webkit-border-radius: 12px;
+          border-radius: 12px;
+  -moz-background-clip: padding; -webkit-background-clip: padding-box; background-clip: padding-box;
+  max-width: 600px;
+  padding:10px;
+}  
+
+
+.navbar-inner{ background-color: #D4652D;}
+.btn-primary {}
+
+h2{}
+
+h3{padding-bottom: 0px; margin-bottom: 0px;}
+
+ul{padding-top: 0px,}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

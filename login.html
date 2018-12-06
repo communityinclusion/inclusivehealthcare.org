@@ -1,0 +1,44 @@
+<html>
+    <head>
+        
+
+    </head>
+    <body>
+       
+    <form id="login">
+  UserID:<br /><input
+id="userName" type="text">
+<br />Password:
+<br /><input id="inputPassword"
+type="password">
+<br /> 
+        <input type="submit" value="go" onClick="pasuser(this.form)">
+        <input type="button" value="Login" onClick="pasuser(this.form)">
+</form>
+        
+
+       <script>
+<!--//
+/*This Script allows people to enter by using a form that asks for a
+UserID and Password*/
+function pasuser(form) {
+  var userName = document.getElementById('userName').value;
+  var inputPassword = document.getElementById('inputPassword').value;
+if (userName=="ihc_user") { 
+if (inputPassword=="testy") { 
+
+window.location = "test.html"
+} else {
+alert("Invalid Password")
+}
+} else {  alert("Invalid UserID")
+}
+}
+//-->
+</script>  
+
+
+       
+       
+    </body>
+</html>

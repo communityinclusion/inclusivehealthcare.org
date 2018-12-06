@@ -1,0 +1,11 @@
+.b_orange {border: 4px solid #d44413;
+-webkit-border-radius: 12px;
+border-radius: 12px;
+-moz-background-clip: padding;
+-webkit-background-clip: padding-box;
+background-clip: padding-box;
+max-width: 600px;
+padding: 10px;}
+.jumbotron {padding-bottom: 1em;}
+
+#myTrailer {width: 600px;}
